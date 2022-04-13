@@ -1,0 +1,120 @@
+bet|bet|bet|заключать пари|Are you going to bet on the white horse? - Ты собираешься поставить на белую лошадь? |He bet $5 on the game. - Он поставил на этот матч пять долларов.|no example|const
+cost|cost|cost|стоить|How much does it cost per kilo? - Сколько стоит килограмм?|It must have cost a packet. - Это, должно быть, стоило уйму денег|no example|const
+cut|cut|cut|резать|Cut the cake. - Разрежь пирог.|I had a cut finger. - Я порезал палец.|no example|const
+hit|hit|hit|ударять,попадать|Hit the ball as hard as you can. - Ударь по мячу изо всех сил. |She hit her hand against the door. - Она ушибла руку о дверь.|no example|const
+let|let|let|позволять,пускать|Let him speak. - Дай ему сказать.|She didn't let him into the house. - Она не пустила его в дом.|no example|const
+put|put|put|класть,ставить|Put the book on the table! - Положите книгу на стол!|He put $20 on the favorite. - Он поставил двадцать долларов на фаворита.|no example|const
+shut|shut|shut|закрывать,затворять|Shut the box to. - Закройте ящик.|He shut his eyes and went to sleep. - Он закрыл глаза и заснул.|no example|const
+spread|spread|spread|разворачивать,распространять|no example|no example|no example|const
+come|came|come|приходить|Come on! - пошли!|Mary came down the stairs. - Мэри спустилась по лестнице.|no example|const_2_3
+become|became|become|становиться|What will become of our freedom? - Что станет с нашей свободой?|It became stuffy. - Стало душно.|no example|const_2_3
+run|ran|run|бежать|The film runs 5 hours. - Фильм идёт пять часов.|The roads ran wild. - Дороги заросли.|no example|const_2_3
+break|broke|broken|ломать|I never break my promises. - Я никогда не нарушаю своих обещаний.|I broke my watch. - Я сломал свои часы.|no example|const_o_in_2_3
+choose|chose|chosen|выбирать|It is not for you to choose. - Выбирать не вам.|They chose to go by train. - Они решили ехать поездом.|no example|const_o_in_2_3
+forget|forgot|forgotten|забывать|Don't forget to write home. - Не забывай писать домой.|He forgot his old friends. - Он позабыл своих старых друзей.|no example|const_o_in_2_3
+freeze|froze|frozen|замораживать|It made my blood freeze. - У меня от этого кровь застыла в жилах.|People are frozen with tears. - Люди замерли со слезами на глазах.|no example|const_o_in_2_3
+get|got|got,gotten|получать|When did you get home? - Когда ты пришёл домой?|I have got to leave early. - Мне надо уйти пораньше.,Could have gotten — мог бы получить; мог бы достать|He has got(ten) a new car every year since he learned to drive. – Каждый год он получает новую машину с тех пор как научился водить.|const_o_in_2_3
+speak|spoke|spoken|говорить|Let him speak. - Дай ему сказать.|She spoke her mind. - Она высказала своё мнение.|no example|const_o_in_2_3
+steal|stole|stolen|воровать|Hunger drove them to steal. - Голод заставил их пойти на воровство.|He stole money from his parents. - Он воровал деньги у родителей. |no example|const_o_in_2_3
+tear|tore|torn|рвать,изнашиваться|to tear slightly - чуть надорвать|He tore the letter from my hand. - Он вырвал письмо из моих рук.|no example|const_o_in_2_3
+wake|woke|woken|будить|Please wake me at 6 AM. - Пожалуйста, разбудите меня в 6 утра.|My banging around in the kitchen woke my wife. - Моё громыхание (посудой) на кухне разбудило жену.|no example|const_o_in_2_3
+wear|wore|worn|носить одежду|What size do you wear? - Какой размер вы носите?|He wore a hole in his pants. - У него была дырка на штанах.|His jeans have worn thin at the knees. - Его джинсы износились в коленях.|const_o_in_2_3
+drive|drove|driven|водить автомобиль|to drive a bus - водить автобус|A car drove by us slowly. - Мимо нас медленно проехал автомобиль.|no example|const_o_in_2
+ride|rode|ridden|ездить верхом|I need a ride to work. - Мне нужно съездить на работу.|I never rode on a horse before. - До тех пор я никогда не ездил верхом.|no example|const_o_in_2
+rise|rose|risen|возрастать,подниматься|He is in line for a pay rise. - Ему скоро повысят зарплату.|A wind rose. - Поднялся ветер|no example|const_o_in_2
+write|wrote|written|писать|The pen won't write. - Ручка не пишет.|Who wrote 'Harry Potter'? - Кто написал Гарри Поттера?|no example|const_o_in_2
+blow|blew|blown|дуть|Blow on the soup to cool it down. - Подуй на суп, чтобы его остудить.|He blew $50 on lunch. - Он выкинул 50 баксов на ланч.|no example|const_ew_in_2_own_in_3
+fly|flew|flown|летать|We usually fly economy class. - Мы, как правило, летаем эконом-классом.|The time simply flew. - Время просто неслось.|no example|const_ew_in_2_own_in_3
+grow|grew|grown|расти|Kids grow up fast these days. - В наше время дети растут быстро.|The small shop grew into a large firm. - Маленький магазинчик разросся в большую фирму.|no example|const_ew_in_2_own_in_3
+throw|threw|thrown|бросать|That was a great throw! - Это был отличный бросок! |Someone threw a stone at the car. - Кто-то бросил в машину камень.|no example|const_ew_in_2_own_in_3
+know|knew|known|знать|I know this voice! - Я узнаю этот голос!|I knew him at once. - Я его тотчас узнал.|no example|const_ew_in_2_own_in_3
+fall|fell|fallen|падать,спускаться|Leaves fall. - Падают листья.|Night fell. - Спустилась ночь.|no example|const_n_in_3
+forbid|forbade|forbidden|запрещать|I forbid you to go! - Я запрещаю тебе идти!|this fact forbade the assumption of his guilt - этот факт исключал его виновность|no example|const_n_in_3
+forgive|forgave|forgiven|прощать|Forgive us our sins. - Прости нам грехи наши.|He never forgave her for walking out on him. - Он так и не простил её за то, что она от него ушла.|no example|const_n_in_3
+give|gave|given|давать|Give me your word. - Дай мне слово. |I gave him my name. - Я сообщил ему своё имя.|no example|const_n_in_3
+see|saw|seen|видеть|How nice to see you again! - Как приятно видеть Вас снова!|He saw better days. - Он видел лучшие времена.|no example|const_n_in_3
+take|took|taken|брать|no example|no example|no example|const_n_in_3
+bite|bit|bitten|кусать|no example|no example|no example|const_n_in_3
+hide|hid|hidden|прятать|no example|no example|no example|const_n_in_3
+shake|shook|shaken|трясти|no example|no example|no example|const_n_in_3
+eat|ate|eaten|кушать|no example|no example|no example|const_n_in_3
+meet|met|met|встречать,знакомиться|no example|no example|no example|common_topic_work
+pay|paid|paid|платить|no example|no example|no example|common_topic_work
+ring|rang|rung|звонить|no example|no example|no example|common_topic_work
+sell|sold|sold|продавать|no example|no example|no example|common_topic_work
+send|sent|sent|посылать|no example|no example|no example|common_topic_work
+lend|lent|lent|давать взаймы|no example|no example|no example|common_topic_work
+buy|bought|bought|покупать|no example|no example|no example|common_topic_work
+deal|dealt|dealt|вести дела|no example|no example|no example|common_topic_work
+dig|dug|dug|копать|no example|no example|no example|common_topic_home
+make|made|made|делать,мастерить|no example|no example|no example|common_topic_home
+build|built|built|строить|no example|no example|no example|common_topic_home
+breed|bred|bred|разводить животных|no example|no example|no example|common_topic_home
+do|did|done|делать|no example|no example|no example|common_topic_home
+light|lit|lit|зажигать,освещать|no example|no example|no example|common_topic_home
+set|set|set|устанавливать|no example|no example|no example|common_topic_home
+sweep|swept|swept|подметать|no example|no example|no example|common_topic_home
+bear|bore|born|рожать,переносить|I don't bear German soldier. - Я не буду рожать маленьких немецких солдат.|You bore me for nothing but pain. - Ты породил меня ни для чего, кроме боли.|to be born - родиться|common_topic_home
+split|split|split|разделять,раскалывать|no example|no example|no example|common_topic_home
+lay|laid|laid|класть|no example|no example|no example|common_topic_home
+drink|drank|drunk|пить|no example|no example|no example|common_topic_home
+feed|fed|fed|кормить|no example|no example|no example|common_topic_home
+awake|awoke|awoken|будить,пробуждать|He was awake now as was everyone else. - Он уже проснулся как и все остальные. |The alarm awoke me early. - Будильник разбудил меня рано.|They were awoken by a loud bang. - Их разбудил громкий взрыв. |common_topic_home
+have|had|had|иметь|no example|no example|no example|common_topic_senses
+hurt|hurt|hurt|причинять боль|no example|no example|no example|common_topic_senses
+be|was,were|been|быть|My name is Jeka|He was late - Он опоздал,They were late - Они опоздали|Success has been achieved - был достигнут успех|common_topic_senses
+shine|shone|shone|светить,сиять|no example|no example|no example|common_topic_senses
+feel|felt|felt|чувствовать|no example|no example|no example|common_topic_senses
+mean|meant|meant|значить|no example|no example|no example|common_topic_senses
+arise|arose|arisen|возникать,появляться,подниматься,вставать|Thence arise divergent opinions. - Отсюда и появляются различные мнения.|Doubts arose in his mind. - В его голове возникли сомнения.|A new difficulty has arisen. - Возникло новое затруднение.|common_topic_senses
+swell|swelled|swollen,swelled|опухать|The water swells the wood. - От воды эта древесина разбухает.|The wind swelled the sails. - Ветер надул паруса.|The window frame was swollen shut. - Оконная рама разбухла и её заклинило.|common_topic_senses
+stink|stank|stunk|вонять|no example|no example|no example|common_topic_senses
+smell|smelt|smelt|пахнуть,нюхать|no example|no example|no example|common_topic_senses
+keep|kept|kept|сохранять,соблюдать|no example|no example|no example|common_topic_senses
+leave|left|left|покидать,оставлять|no example|no example|no example|common_topic_senses
+strike|struck|struck|бастовать,ударять|no example|no example|no example|common_topic_negative
+spill|spilt,spilled|spilt,spilled|разлить|I didn't spill a drop. - Я не пролил ни капли.|no example|no example|common_topic_negative
+spoil|spoilt,spoiled|spoilt,spoiled|портить|The milk was beginning to spoil. - Молоко начинало портиться. |no example|no example|common_topic_negative
+beat|beat|beaten|бить|Beat out this tune on a drum. - Выстучи эту мелодию на барабане. |The drums beat all night. - Барабаны били всю ночь|He was questioned and beaten. - Его допрашивали и избивали.|common_topic_negative
+bleed|bled|bled|кровоточить|no example|no example|no example|common_topic_negative
+cling|clung|clung|цепляться|no example|no example|no example|common_topic_negative
+sting|stung|stung|жалить|no example|no example|no example|common_topic_negative
+lose|lost|lost|терять|no example|no example|no example|common_topic_negative
+swear|swore|sworn|клясться,ругаться|no example|no example|no example|common_topic_negative
+shoot|shot|shot|стрелять|no example|no example|no example|common_topic_fidget
+spin|spun|spun|крутить|no example|no example|no example|common_topic_fidget
+win|won|won|побеждать|no example|no example|no example|common_topic_fidget
+slide|slid|slid|скользить|no example|no example|no example|common_topic_fidget
+swim|swam|swum|плавать|no example|no example|no example|common_topic_fidget
+wind|wound|wound|обматывать,изгибаться|no example|no example|no example|common_topic_fidget
+fight|fought|fought|бороться|no example|no example|no example|common_topic_fidget
+flee|fled|fled|сбегать|no example|no example|no example|common_topic_fidget
+bend|bent|bent|наклонять|no example|no example|no example|common_topic_fidget
+bind|bound|bound|связывать|no example|no example|no example|common_topic_fidget
+bring|brought|brought|приносить|no example|no example|no example|common_topic_fidget
+catch|caught|caught|ловить|no example|no example|no example|common_topic_fidget
+find|found|found|находить|no example|no example|no example|common_topic_fidget
+seek|sought|sought|искать|no example|no example|no example|common_topic_fidget
+lie|lay|lain|лежать|no example|no example|no example|common_topic_state
+sit|sat|sat|сидеть|no example|no example|no example|common_topic_state
+sleep|slept|slept|спать|no example|no example|no example|common_topic_state
+stand|stood|stood|стоять|no example|no example|no example|common_topic_state
+hold|held|held|держать|no example|no example|no example|common_topic_state
+go|went|gone|идти|no example|no example|no example|common_topic_state
+hang|hung|hung|висеть|no example|no example|no example|common_topic_state
+shrink|shrank|shrunk|сжиматься|no example|no example|no example|common_topic_state
+spell|spelt,spelled|spelt,spelled|произносить,писать по буквам|How do you spell your name? - Как пишется ваше имя?|no example|no example|common_topic_training
+begin|began|begun|начинать|no example|no example|no example|common_topic_training
+draw|drew|drawn|рисовать,тянуть|no example|no example|no example|common_topic_training
+learn|learnt,learned|learnt,learned|учиться,узнавать|Live and learn! - Век живи и век учись!,I learned Sanskrit. - Я выучил санскрит.|no example|no example|common_topic_training
+hear|heard|heard|слышать|no example|no example|no example|common_topic_training
+lead|led|led|вести,лидировать|no example|no example|no example|common_topic_training
+understand|understood|understood|понимать|no example|no example|no example|common_topic_training
+read|read|read|читать|no example|no example|no example|common_topic_training
+say|said|said|сказать|no example|no example|no example|common_topic_training
+show|showed|shown|показывать|no example|no example|no example|common_topic_training
+sing|sang|sung|петь|no example|no example|no example|common_topic_training
+think|thought|thought|думать|no example|no example|no example|common_topic_training
+teach|taught|taught|обучать|no example|no example|no example|common_topic_training
+tell|told|told|рассказывать|no example|no example|no example|common_topic_training
+spend|spent|spent|тратить,проводить время|How do you spend your leisure? - Как вы проводите свободное время?|He spent his force. - Он растратил все свои силы.|no example|common_topic_training
