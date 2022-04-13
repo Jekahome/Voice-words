@@ -1,4 +1,4 @@
-# SoundWords
+# voice acting of words
 Plays sound files using [mplayerhq](http://www.mplayerhq.hu/design7/news.html).
 
 Can randomize the list, limit the number of playable files, change the delay in playback time between files.
